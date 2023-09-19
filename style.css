@@ -163,6 +163,7 @@ a {
     transform: translate(-50%, -50%);
     z-index: 1;
     width: 70%;
+    /* color: var(--bg-clr-btn); */
 }
 
 /* programmes section */
@@ -245,7 +246,7 @@ a {
     background-size: cover;
 }
 
-.diff-section-overlay {
+.diff-section-overlay, .hero-section-overlay {
     position: absolute;
     background-color: hsla(0, 0%, 0%, 0.7);
     width: 100%;
