@@ -253,9 +253,9 @@ a {
     inset-block: 0%;
 }
 
-.hero-section-overlay {
+/* .hero-section-overlay {
     background-color:hsla(0, 0%, 0%, 0.3);
-}
+} */
 
 .diff-section-btn {
     display: inline-block;
